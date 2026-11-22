@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Forest Business School//Project Flow//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fbs-project-flow-20270201@forestenterprise.org
+DTSTAMP:20261122T160000Z
+DTSTART:20270202T000000Z
+DTEND:20270202T013000Z
+SUMMARY:Project Flow in Forestry - Project flow and tempo
+LOCATION:Online
+URL:https://loggingchance.github.io/ProjectFlow/february-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbs-project-flow-20270208@forestenterprise.org
+DTSTAMP:20261122T160000Z
+DTSTART:20270209T000000Z
+DTEND:20270209T013000Z
+SUMMARY:Project Flow in Forestry - Critical Chain Project Management
+LOCATION:Online
+URL:https://loggingchance.github.io/ProjectFlow/february-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbs-project-flow-20270215@forestenterprise.org
+DTSTAMP:20261122T160000Z
+DTSTART:20270216T000000Z
+DTEND:20270216T013000Z
+SUMMARY:Project Flow in Forestry - Goldratt’s Rules of Flow
+LOCATION:Online
+URL:https://loggingchance.github.io/ProjectFlow/february-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbs-project-flow-20270222@forestenterprise.org
+DTSTAMP:20261122T160000Z
+DTSTART:20270223T000000Z
+DTEND:20270223T013000Z
+SUMMARY:Project Flow in Forestry - Adopting the Critical Chain mindset
+LOCATION:Online
+URL:https://loggingchance.github.io/ProjectFlow/february-2027/
+END:VEVENT
+END:VCALENDAR
